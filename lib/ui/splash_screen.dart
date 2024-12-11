@@ -42,7 +42,7 @@ class _SplashScreenState extends State<SplashScreen> {
             const SizedBox(height: 20),
             // Teks Splash
             const Text(
-              'QRODE',
+              'QR SCANNER',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 50,
